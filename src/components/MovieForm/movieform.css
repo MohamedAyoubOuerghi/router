@@ -1,0 +1,10 @@
+.addbutton {
+  margin: 0 40%;
+  background-color: rgb(68, 128, 0) !important;
+}
+
+
+.addbutton:hover {
+  background-color: gray !important;
+  color: rgb(68, 128, 0) !important;
+}
